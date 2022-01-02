@@ -347,7 +347,7 @@
 }
 @media (min-width:768px) and (max-width:991px){
     .mainSection .classDetails .search{
-        width: 100%; 
+        width: 110%; 
      }
 }
 @media (min-width:992px) and (max-width:1199px){
@@ -378,7 +378,7 @@
 }
 @media (min-width:768px) and (max-width:991px){
     .mainSection .classDetails .icon1{
-        left: 20px; 
+        left: 0px; 
     }
 }
 @media (min-width:992px) and (max-width:1199px){
@@ -431,12 +431,12 @@
 }
 @media (min-width:768px) and (max-width:991px){
     .mainSection .subBox{
-        width: 100%; 
+        width: 110%; 
      }
 }
 @media (min-width:992px) and (max-width:1199px){
     .mainSection .subBox{
-        width: 100%; 
+       width: 100%;
      }
 }
 .classDetails .subBox h6{
@@ -498,11 +498,7 @@ list-style-type: none;
     clear: both;
     margin-top:-100px;
 }
-@media (min-width:768px) and (max-width:991px){
-    .mainSection .subBox .sub i {
-       margin-right:-5px;
-    }  
-}
+
 .mainSection .subBox .sub i{
     border: 1px solid #ccc;
     color: #8c8c8c;
